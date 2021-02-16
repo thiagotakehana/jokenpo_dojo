@@ -1,0 +1,13 @@
+{
+  "name": "jokenpo_dojo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Takehana <thiagoyuiti@yahoo.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "test" : "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
